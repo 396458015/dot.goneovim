@@ -1,6 +1,6 @@
 ## neovim's gui, goneovim
 - 路径
-  C:\Users\ThinkPad\AppData\Roaming\.goneovim\settings.toml
+  C:\Users\ThinkPad\AppData\Roaming\\.goneovim\settings.toml
 
 ### 优点
 - 字体渲染效果好，支持guifont
