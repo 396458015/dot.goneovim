@@ -1,5 +1,5 @@
 [Editor]
-Transparent = 0.95 
+Transparent = 1.0 
 BorderlessWindow = true
 HideTitlebar = true
 StartFullscreen = false
